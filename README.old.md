@@ -1,9 +1,3 @@
-# Projekto įrašymas ir paleidimas
-
-1. Esant projekto direktorijoje parašyti komandą `yarn` - tai irašys reikiamas bibliotekas.
-2. Sėkmingai įrašius bibliotekas, esant projekto direktorijoje, sukurti `.env` failą ir jame sukurti du kintamuosius `REACT_APP_MOVIE_API_KEY=**{api_raktas}**`, kuriame saugomas api raktas, bei pagrindinę api puslapio nuoroda `REACT_APP_MOVIE_API_URL='https://api.themoviedb.org'`.
-3. Puslapis paleidžiamas `yarn start` komanda.
-
 # Kayak UI Academy Užduotis
 
 Sukurkite paieškos _autocomplete_ web komponentą, kurio pagalba vartotojas galės pasirinkti kino filmą iš įvestos frazės atitikmenų. Paieškos komponentas turi bendrauti su filmų informacijos API.
